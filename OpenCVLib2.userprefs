@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="OpenCVLib2.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Machine Learning/KNearest.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="MainForm.cs" Line="49" Column="42" />
+      <File FileName="Motion &amp; tracking/AbsDiff.cs" Line="1" Column="1" />
+      <File FileName="Machine Learning/KNearest.cs" Line="25" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
